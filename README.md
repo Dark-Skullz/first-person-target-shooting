@@ -14,7 +14,8 @@ good luck!!
 --------------------------------------------------
 instructions:
 
-1. just open the inde
+1. just open the index.HTML file in your browser.
+2. have fun!
 
 if it doesn't work, just contact me on discord:
 
