@@ -14,12 +14,9 @@ good luck!!
 --------------------------------------------------
 instructions:
 
-1. download the .ZIP file.
-2. unzip the .ZIP.
-3. right-click on the "index" document.
-4. open with your browser.
+1. just open the inde
 
-if it still doesn't work, just contact me on discord:
+if it doesn't work, just contact me on discord:
 
 .Henk.#2975
 
