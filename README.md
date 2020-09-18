@@ -8,3 +8,20 @@ to restart the game, refresh the page.
 
 good luck!!
 
+
+
+
+--------------------------------------------------
+instructions:
+
+1. download the .ZIP file.
+2. unzip the .ZIP.
+3. right-click on the "index" document.
+4. open with your browser.
+
+if it still doesn't work, just contact me on discord:
+
+.Henk.#2975
+
+---------------------------------------------------
+
